@@ -41,3 +41,38 @@
     position: relative;
     top:170px;
 }
+
+
+.pic2{
+    background-image: url(portfolio-3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    
+   
+}
+.pic2:hover .none{
+    display:inline-block;
+    background-color: rgba(255, 255, 255, 0.9);
+    height: 500px;
+
+}
+
+.pic3:hover .none{
+    display:inline-block;  
+    background-color: rgba(255, 255, 255, 0.9);
+    height: 500px;   
+  }
+.pic3{
+    background-image: url(portfolio-6.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+   
+}
+
+.none{
+    display: none;
+    height: 500px;
+    width:100%;
+}
