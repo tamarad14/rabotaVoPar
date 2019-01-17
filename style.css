@@ -75,3 +75,23 @@
     height: 500px;
     width:100%;
 }
+
+hr{
+    border-top: 2px solid red;
+    width: 30%;
+}
+
+i{
+    color: red;
+}
+
+.ho:hover{
+    background-image: linear-gradient(to right, darkblue, purple, pink);
+    border-radius: 15px;
+    height: 200px;
+    color: white;
+}
+
+i:hover, hr:hover{
+    color: white;
+}
